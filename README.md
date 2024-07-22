@@ -1,3 +1,3 @@
-学习llm记录
+# 菜鸟研究生学习llm记录
 
-参考 ：大模型实战营（https://github.com/InternLM/Tutorial）
+参考 ：[大模型实战营]（https://github.com/InternLM/Tutorial）
